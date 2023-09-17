@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+
+  body {
+    background-color: #e2dfdf;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+    display: block;
+  }
+
+  .wrapper {
+    padding: 20px;
+  }
+
+  img {
+    width: 300px;
+    margin: 20px 0;
+    box-shadow: 10px 10px #704aa0;
+  }
+
+  h1 {
+    text-transform: uppercase;
+  }
+
+  dt {
+    font-weight: 700;
+    color: #704aa0;
+  }
+
+  dd {
+    margin-left: 10px;
+  }
+
